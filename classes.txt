@@ -1,0 +1,3 @@
+bottle
+ballpoint_box
+computer_mouse
