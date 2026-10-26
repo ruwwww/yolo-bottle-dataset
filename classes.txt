@@ -1,3 +1,5 @@
 bottle
 ballpoint_box
 computer_mouse
+teh_pucuk
+golda
